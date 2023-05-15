@@ -35,6 +35,7 @@ func main() {
 	}
 
 	log.Info("Starting onos-kpimon")
+	log.Info("Starting onos-kpimon Omar Samir")
 	cfg := manager.Config{
 		CAPath:      *caPath,
 		KeyPath:     *keyPath,
