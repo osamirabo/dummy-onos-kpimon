@@ -14,3 +14,10 @@ go get github.com/onosproject/onos-ric-sdk-go/pkg/config/utils
 go get github.com/onosproject/onos-ric-sdk-go/pkg/e2/v1beta1
 go get github.com/onosproject/onos-ric-sdk-go/pkg/topo
 
+go get github.com/onosproject/helmit/pkg/registry
+go get github.com/onosproject/onos-ric-sdk-go/pkg/utils@v0.8.11
+go get github.com/onosproject/onos-test/pkg/onostest
+
+go get github.com/onosproject/helmit@v0.6.19
+go get github.com/onosproject/helmit/pkg/helm@v0.6.19
+
